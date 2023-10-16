@@ -1,0 +1,51 @@
+#background {
+    height: 725px;
+}
+#content {
+    max-width: 1600px;
+    margin: 0 auto;
+    }
+
+     
+body {
+    background-color: #caa9ac; 
+}
+.home-grid {
+    text-align: center;
+    }
+header {
+    background-color:rgba(224, 213, 91, 0.7);
+}
+nav a:hover {
+    background-color: rgb(107, 91, 93);
+    text-align: center
+}
+
+nav a:hover {
+    background-color: rgb(185, 136, 136);
+    color: #d9c2a3;
+    text-align: center
+}    
+      
+.icon {
+    width: 80px;
+}
+     
+nav a {
+    text-align: center;
+    color: #464141;
+    text-decoration: none;
+    
+}
+ 
+footer p {
+    font-size: 1.2em;
+    
+} 
+footer p a:hover {
+    text-decoration: underline;
+}    
+.logo {
+    width: 80px;
+}
+         
