@@ -12,9 +12,13 @@ p {
   font-size: 20px;
   text-align: center;
 }
-img {
+/* img {
+  float: left
   border-radius: 50%;
   vertical-align: left;
   width: 100px;
   height: 100px;
+} */
+img {
+  float: left
 }
