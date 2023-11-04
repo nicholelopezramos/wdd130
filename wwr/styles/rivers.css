@@ -1,0 +1,8 @@
+img {
+    display: auto;
+    margin: 0 auto; 
+}
+.rivers picture, river1, river2{
+    word-wrap: normal;
+}
+body {background-color: pink;}
