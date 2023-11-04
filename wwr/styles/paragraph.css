@@ -1,0 +1,20 @@
+body {
+    background-color: pink;
+  }
+  h1 {
+    color: black;
+    text-align: left;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+    text-align: left;
+  }
+  img {
+    float: left;
+    border-radius: 50%;
+    vertical-align: left;
+    width: 100px;
+    height: 100px;
+  }
