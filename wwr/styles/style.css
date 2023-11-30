@@ -2,6 +2,7 @@
     height: 725px;
     grid-column: 1/11;
     grid-row: 4/9;
+    background-color: beige;
 }
 #content {
     max-width: 1600px;
