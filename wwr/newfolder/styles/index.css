@@ -175,6 +175,25 @@ nav a:hover {
   border-right: 1px solid;
 }
 
+/* Page 2 */
+.content {
+ width: 1000px;
+
+}
+section {
+  width: 88%;
+  text-align: center;
+}
+
+img {
+  float: left;      
+  
+}
+footer {
+  
+}
+
+
 
 /* CSS SEARCHBAR /*
 /* Add a black background color to the top navigation bar */
